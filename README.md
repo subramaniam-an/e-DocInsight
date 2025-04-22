@@ -100,4 +100,4 @@ docker-compose up
 
 ## License
 
-[Your License Here] 
+All rights reserved. This project is provided for demonstration purposes only and is not licensed for redistribution or commercial use.
